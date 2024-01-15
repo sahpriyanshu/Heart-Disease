@@ -6,10 +6,6 @@ import seaborn as sns
 # Correct import statements for scikit-learn modules
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
-# from sklearn.ensemble import RandomForestClassifier
-# from scikit.linear_model import LogisticRegression
-# from scikit.model_selection import train_test_split
-
 # Data contains
 # age - age in years
 # sex - (1 = male; 0 = female)
